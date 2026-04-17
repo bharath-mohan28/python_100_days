@@ -1,0 +1,44 @@
+
+body {
+    font-family: sans-serif;
+    background-color: #e0e0e2; 
+    color: #333333;
+    margin: 0;
+    padding: 20px;
+}
+h1{
+    color:#721817;
+}
+h2{
+    color:#721817;
+}
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px; 
+}
+
+
+.center-text {
+    text-align: center;
+}
+
+
+h2 span {
+    background-color: #fa9f42; 
+    font-size:0.75em;
+    padding: 2px 5px;
+    vertical-align: middle;
+    border-radius: 4px;
+    margin-left: 0px;
+}
+
+
+#copyright {
+    margin-top: 50px;
+    padding-top: 12px;
+    font-size: 0.50em;
+    font-style: italic;
+    color: #495E57; 
+}
