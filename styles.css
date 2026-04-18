@@ -8,9 +8,11 @@ body {
 }
 h1{
     color:#721817;
+    padding:auto;
 }
 h2{
     color:#721817;
+    display: block;
 }
 #logo {
     display: block;
